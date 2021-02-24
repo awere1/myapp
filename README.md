@@ -1,5 +1,5 @@
-# myapp
-Assignment 4 repo for submission
+# myapp - MVC-php
+Assignment 4 repo for submission (forked repo is under the mvc-php in repositories)
 
 Here are the changes made:
 
